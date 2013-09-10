@@ -10,5 +10,7 @@ public class HelloWorld
     {
         System.out.println( "Hello World!" );
 	System.out.println( "Hello China!" );
+
+	System.out.println( "Hello TDLX!" );
     }
 }
