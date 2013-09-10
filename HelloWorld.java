@@ -13,6 +13,8 @@ public class HelloWorld
 
 	System.out.println( "Hello TDLX!" );
 	System.out.println( "Hello WangHongDa!" );
+	System.out.println( "Hello WangZeJu!" );
+
 
     }
 }
